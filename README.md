@@ -1,1 +1,1 @@
-# docs_de
+<p>Обучение работе с github, atom</p>
